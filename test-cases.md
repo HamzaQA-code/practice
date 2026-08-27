@@ -40,12 +40,12 @@ Preconditions:
 - User has no registered account.
 - User is on the registration page.
 
-  Steps:
+Steps:
 1. open registration page 
 2. click register with "one click"
 3. Click the "register" button.
 
-   Expected Result:
+Expected Result:
 - User is  registered .
 - An username and password displayed
   
@@ -57,11 +57,11 @@ Preconditions:
 - User has logged in account.
 - User is on the menu - log out page.
 
-  Steps:
+Steps:
 1. open menu page 
 2. scrol down until you see "log out"
 3. Click the "logout" button.
 
-   Expected Result:
+Expected Result:
 - User is logged out .
 - no logged in account .
