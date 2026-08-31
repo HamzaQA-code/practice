@@ -19,7 +19,7 @@ Deposit Button Is Missing From the Success Modal After Registration via Social N
 
 ## Steps to Reproduce
 1. Open the Melbet website on desktop.
-2. Click "Register".
+2. Click "Registration".
 3. Select a social network registration option.
 4. Complete the registration process using the social network account.
 5. Observe the success modal displayed after successful registration.
