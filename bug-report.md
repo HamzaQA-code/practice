@@ -4,14 +4,14 @@
 BUG-001
 
 ## Title
-[Short and clear description of the issue]
+Deposit Button Is Missing From the Success Modal After Registration via Social Network
 
 ## Environment
-- Platform:
-- Browser:
-- OS:
-- Website:
-- Build/Version:
+- Platform:Desktop
+- Browser:chrome
+- OS:26.6.2
+- Website:melbet
+- Build/Version:151.0.7922.174 (Official Build) (arm64)
 
 ## Preconditions
 - User is not registered/logged in.
@@ -19,7 +19,7 @@ BUG-001
 
 ## Steps to Reproduce
 1. Open the Melbet website on desktop.
-2. Click "Sign Up".
+2. Click "Register".
 3. Select a social network registration option.
 4. Complete the registration process using the social network account.
 5. Observe the success modal displayed after successful registration.
