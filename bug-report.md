@@ -41,7 +41,6 @@ High
 
 ----------------------------
 
-# Bug Report
 # Bug ID
 
 BUG-002
@@ -85,8 +84,6 @@ Medium
 Screenshot/video:
 
 -----------------------------------------
-
-## Bug Report
 
 ## Bug ID
 BUG-003
